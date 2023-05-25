@@ -509,3 +509,13 @@ html, body {
    }
   }
     
+
+  @media (min-width: 890px){
+
+    .text{
+      margin-left: 970px;
+    }
+    .t{
+      margin-right: 800px;
+    }
+  }
