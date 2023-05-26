@@ -346,6 +346,17 @@ html, body {
     scale: 120%;
     
   }
+
+  .bt4{
+    scale: 120%;
+    margin-top: 450px;
+    
+  }
+
+  .bt5{
+  scale: 120%;
+  
+  }
   
   .clique1{
     margin-bottom: 217px;
@@ -430,7 +441,7 @@ html, body {
       margin-left: 450px;
       width: 300px;
       text-align: center;
-      margin-top: -480px;
+      margin-top: -950px;
     }
 
     .text{
